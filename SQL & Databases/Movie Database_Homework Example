@@ -1,9 +1,8 @@
-########################### DO NOT MODIFY THIS SECTION ##########################
-#################################################################################
+
 import sqlite3
 from sqlite3 import Error, IntegrityError
 import csv
-#################################################################################
+
 
 ## Change to False to disable Sample
 SHOW = True
