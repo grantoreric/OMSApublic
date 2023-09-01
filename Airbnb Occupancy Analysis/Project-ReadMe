@@ -1,1 +1,8 @@
+As part of the Data Visualization and Analytics course for Georgia Tech's Online Masters in Analytics,
+I participated in a team activity where we sought to match variables in Airbnb listings
+and variables in nearby restaurants (from a Yelp! dataset)
+to see what effects we could surmise that they had on one another. 
+We localized this effort to Nashville, TN. 
 
+The results were mixed—but we could see a relationship between low vacancy (high booking percentage)
+and popular and well-rated nearby restaurants. 
